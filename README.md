@@ -1,3 +1,8 @@
+
+**NB : I did not utilize Docker, MySQL, or PostgreSQL in this project due to hardware limitations; my laptop does not support the necessary operating system updates required to run these tools reliably.**
+<br>
+**NB 2 : Swagger was used for API testing and documentation instead of Postman or cURL.**
+
 # Candidates_Manager 🚀
 
 **Candidates_Manager** est une application web qui permet de gérer les candidats d’un processus de recrutement.  
@@ -10,8 +15,6 @@ Le projet **Candidates_Manager** est organisé de manière modulaire pour facili
 - **backend/** : Contient toute la logique serveur et la communication avec les données.
 - **candidates_manager/** : Module central qui gère les opérations sur les candidats.
 - **frontend/** : Interface web permettant d’interagir avec l’application.
-- **manage.py** : Script principal pour exécuter et gérer l’application.
-- **requirements.txt** : Fichier listant toutes les dépendances nécessaires pour faire tour
 
 ## ✅ Prérequis
 
